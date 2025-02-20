@@ -21,11 +21,16 @@ This project is dedicated to scanning and strengthening network infrastructures 
 | Youssef Mohammed | 🔹 Member  |
 | Hazem Alaa      | 🔹 Member  |
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to submit issues or pull requests to improve security methodologies and add new features.
+--- 
 
-## 🔐 Disclaimer
-This project is for educational and ethical security research purposes only. Unauthorized scanning of networks without permission is illegal.
+## ⚠️ Disclaimer  
 
-## 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is strictly for **educational and ethical security testing purposes** only. Any unauthorized use of these techniques on real-world systems **without explicit permission** is **illegal** and violates ethical hacking standards. The team **does not endorse or support any malicious activities**. Always adhere to legal and ethical guidelines.  
+
+## 📬 Contact  
+For inquiries, collaborations, or contributions, feel free to contact the **Team Leader**:  
+**🔹 Khaled Ahmed**  
+📧 [khaled.emam.official@gmail.com]  
+
+
+
