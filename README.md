@@ -36,8 +36,7 @@ This project is dedicated to scanning and strengthening network infrastructures 
 ---
 
 ## ⚠️ Disclaimer  
-
-This project is strictly for **educational and ethical security testing purposes** only. Any unauthorized use of these techniques on real-world systems **without explicit permission** is **illegal** and violates ethical hacking standards. The team **does not endorse or support any malicious activities**. Always adhere to legal and ethical guidelines.  
+This project is for educational and ethical use only. Unauthorized testing on real systems is illegal. We do not endorse misuse and are not responsible for any unethical actions. Always adhere to legal and ethical guidelines.  
 
 ---
 
