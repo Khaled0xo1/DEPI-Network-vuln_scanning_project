@@ -1,4 +1,4 @@
-# rNetwork Vulnerability Assessment and Hardening
+# 🖧 🔒 Network Vulnerability Assessment and Hardening
 
 This project is dedicated to scanning and strengthening network infrastructures by identifying vulnerabilities and implementing hardening techniques. Using advanced security methodologies, the goal is to enhance system resilience against potential cyber threats.
 
