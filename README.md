@@ -17,7 +17,7 @@ This project is dedicated to scanning and strengthening network infrastructures 
 |------------------|-----------|
 |  Khaled Ahmed   | 🔹 Leader  |
 | Mohammed Saeed   | 🔹 Member  |
-| Ahmed Eissawy   | 🔹 Member  |
+| Ahmed Essawy   | 🔹 Member  |
 | Youssef Mohammed | 🔹 Member  |
 | Hazem Alaa      | 🔹 Member  |
 
