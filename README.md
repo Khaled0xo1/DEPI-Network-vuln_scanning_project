@@ -1,6 +1,3 @@
-# 🛡 DEPI-NetShield
-
-**A repository for network scanning and hardening, focusing on threat detection, vulnerability assessment, and security enhancement.**
 
 ## 📌 Project Overview
 This project is dedicated to scanning and strengthening network infrastructures by identifying vulnerabilities and implementing hardening techniques. Using advanced security methodologies, the goal is to enhance system resilience against potential cyber threats.
