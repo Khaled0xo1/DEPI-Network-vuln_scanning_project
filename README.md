@@ -10,6 +10,7 @@ This project is dedicated to scanning and strengthening network infrastructures 
 - Implement hardening measures to strengthen system defenses.
 - Provide actionable insights to improve overall security posture.
 
+---
 
 ## 👥 Team Members  
 
@@ -26,6 +27,8 @@ This project is dedicated to scanning and strengthening network infrastructures 
 ## ⚠️ Disclaimer  
 
 This project is strictly for **educational and ethical security testing purposes** only. Any unauthorized use of these techniques on real-world systems **without explicit permission** is **illegal** and violates ethical hacking standards. The team **does not endorse or support any malicious activities**. Always adhere to legal and ethical guidelines.  
+
+---
 
 ## 📬 Contact  
 For inquiries, collaborations, or contributions, feel free to contact the **Team Leader**:  
