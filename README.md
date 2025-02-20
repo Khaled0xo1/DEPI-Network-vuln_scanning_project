@@ -11,6 +11,16 @@ This project is dedicated to scanning and strengthening network infrastructures 
 - Provide actionable insights to improve overall security posture.
 
 
+## 👥 Team Members  
+
+| 🏅 Name            | 🎭 Role   |
+|------------------|-----------|
+|  Khaled Ahmed   | 🔹 Leader  |
+| Mohammed Said   | 🔹 Member  |
+| Ahmed Eissawy   | 🔹 Member  |
+| Youssef Mohammed | 🔹 Member  |
+| Hazem Alaa      | 🔹 Member  |
+
 ## 🤝 Contributing
 Contributions are welcome! Feel free to submit issues or pull requests to improve security methodologies and add new features.
 
