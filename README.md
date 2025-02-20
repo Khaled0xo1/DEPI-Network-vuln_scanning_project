@@ -1,5 +1,6 @@
+# Network vulnerability and 
+## 📌 Project OverviewHazem Alaa abdelaziz	Network Vulnerability Assessment and Hardening
 
-## 📌 Project Overview
 This project is dedicated to scanning and strengthening network infrastructures by identifying vulnerabilities and implementing hardening techniques. Using advanced security methodologies, the goal is to enhance system resilience against potential cyber threats.
 
 ## 🎯 Objectives
@@ -14,7 +15,7 @@ This project is dedicated to scanning and strengthening network infrastructures 
 | 🏅 Name            | 🎭 Role   |
 |------------------|-----------|
 |  Khaled Ahmed   | 🔹 Leader  |
-| Mohammed Said   | 🔹 Member  |
+| Mohammed Saeed   | 🔹 Member  |
 | Ahmed Eissawy   | 🔹 Member  |
 | Youssef Mohammed | 🔹 Member  |
 | Hazem Alaa      | 🔹 Member  |
