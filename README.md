@@ -1,4 +1,4 @@
-# DEPI-NetShield
+# 🛡 DEPI-NetShield
 
 **A repository for network scanning and hardening, focusing on threat detection, vulnerability assessment, and security enhancement.**
 
