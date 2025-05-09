@@ -34,7 +34,7 @@
 ## 📌 Project Breakdown  
 
 
-- Reconassance including full port scanning, Vhost scaning and directories
+- Reconassance including full port scanning, Vhost scaning and directories scan
   
    ![image](https://github.com/user-attachments/assets/4df80cb8-09cb-4f5d-8ec1-a7720272bf34)
    ![image](https://github.com/user-attachments/assets/c7d7749e-fcfa-4044-99cb-734f0d1f6806)
