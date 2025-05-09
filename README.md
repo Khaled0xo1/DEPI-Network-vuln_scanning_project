@@ -80,7 +80,8 @@
   
      
 
-
+Final Note:
+This project was the result of dedicated hard work and true teamwork. Throughout the process, we gained valuable insights into key cybersecurity concepts, including Active Directory, Kerberos authentication, lateral movement, containers, antivirus evasion, and more. It was a rewarding experience that significantly deepened our understanding and skills.
 
 
 ---
