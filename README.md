@@ -45,13 +45,14 @@
 
    
 - Enumeration on all the accessed machines
-  * Gained accessing to the internal network 192.168.100.0/24
-
-    ![image](https://github.com/user-attachments/assets/85b6ca20-da85-4aa4-ae9f-020fbea8cc3d)
-
-  * After enumerating the container with ip 192.168.100.100 we found a database credentials in  `db_connect.php` file
-
-      ![image](https://github.com/user-attachments/assets/0ec7023b-1457-42ad-b433-d60547cac07b)
+  * Examples:
+      * Gained accessing to the internal network 192.168.100.0/24
+    
+        ![image](https://github.com/user-attachments/assets/85b6ca20-da85-4aa4-ae9f-020fbea8cc3d)
+    
+      * After enumerating the container with ip 192.168.100.100 we found a database credentials in  `db_connect.php` file
+    
+          ![image](https://github.com/user-attachments/assets/0ec7023b-1457-42ad-b433-d60547cac07b)
 
 
 - previlage esclation and Lateral movement
