@@ -78,9 +78,9 @@
   * or through the  following google drive link (Trust me not a malisious link 😁) : https://drive.google.com/file/d/1SutbhuGgngDXLznqXvZuL21u2K_SvjWB/view?usp=sharing
   * Thm Certifications that helped us with knoweledge to be able to do the testing is also mentined in the tryhackme certs section or through this link: https://drive.google.com/file/d/127_gMgM1UXNa1j8Dm8H8EHgmPM30hY56/view?usp=sharing
   
-     
+  --- 
 
-Final Note:
+### Final Note:
 This project was the result of dedicated hard work and true teamwork. Throughout the process, we gained valuable insights into key cybersecurity concepts, including Active Directory, Kerberos authentication, lateral movement, containers, antivirus evasion, and more. It was a rewarding experience that significantly deepened our understanding and skills.
 
 
