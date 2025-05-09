@@ -36,6 +36,27 @@
   
    ![image](https://github.com/user-attachments/assets/4df80cb8-09cb-4f5d-8ec1-a7720272bf34)
    ![image](https://github.com/user-attachments/assets/c7d7749e-fcfa-4044-99cb-734f0d1f6806)
+
+- Vulnerabilities exploitation and stimulating to unauthorized access (we have prior permission from the holo coperate to do this)
+   * Example: RCE vulnerability gave us a Full reverse shell over host ip:10.200.110.33 | container IP: 192.168.100.100
+     ![image](https://github.com/user-attachments/assets/8072c162-53b4-4c60-9a61-6f000e71dade)
+     ![image](https://github.com/user-attachments/assets/2847851c-016d-47bb-857e-2b812a3caf68)
+     ![image](https://github.com/user-attachments/assets/8aa45d92-b736-4ae0-830e-e100c068985c)
+
+   
+- Enumeration on all the accessed machines
+  * Gained accessing to the internal network 192.168.100.0/24
+
+    ![image](https://github.com/user-attachments/assets/85b6ca20-da85-4aa4-ae9f-020fbea8cc3d)
+
+  * After enumerating the container with ip 192.168.100.100 we found a database credentials in  `db_connect.php` file
+
+      ![image](https://github.com/user-attachments/assets/0ec7023b-1457-42ad-b433-d60547cac07b)
+
+
+- previlage esclation and Lateral movement
+- Reporting stage
+  
      
 
 
