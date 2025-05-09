@@ -1,4 +1,4 @@
-# 🖧 🔒 Network Vulnerability Assessment and Hardening
+![image](https://github.com/user-attachments/assets/16fac3a2-ea26-4b96-b02d-807883c893ca)# 🖧 🔒 Network Vulnerability Assessment and Hardening
 
 ### We have conducted  a security assessment and penetration testing against using Gray-box technique on both internal and external assets of the Holo Cooperative Network.
 ### Simulating a real-world attacker with limited insider knowledge, we successfully uncovered and exploited multiple vulnerabilities—some of which resulted in privilege escalation, unauthorized access to critical systems, and full network compromise.These findings highlight serious risks and emphasize the need for promptremediation to enhance the organization’s overall security posture.
@@ -56,7 +56,24 @@
 
 
 - previlage esclation and Lateral movement
+
+  * Exmples:
+      * After gaining access to the machine 192.168.100.100 we found using scanning that 192.168.100.1 is running sql server so we used the DB creds we found in the previous step to log in to the machine
+      * and injected RCE payload in the mysql table and use outfile function with select statment to make a file contaning the RCE payload on the 192.168.100.1 maching then we used the rce to get a reverseshell and gain full access to the gateway
+      * we now on the 192.168.100.1 machine but stil www.data user, then we found a docker binary with suid and we exploited it ot gain root acess
+    
+         ![image](https://github.com/user-attachments/assets/83f9164a-d501-4c12-9ae4-533eb8899f52)
+         ![image](https://github.com/user-attachments/assets/18a62b44-cca0-4c7a-a1ca-ca640c5d9774)
+         ![image](https://github.com/user-attachments/assets/aa481f7b-3160-465c-9512-903f87896b78)
+         ![image](https://github.com/user-attachments/assets/9a476ee4-709c-4ca5-8631-62ce7cb3995e)
+         ![image](https://github.com/user-attachments/assets/a719d556-b47a-4cf7-bbb2-f4bfc0f50ae0)
+         ![image](https://github.com/user-attachments/assets/1e452964-e850-4787-b26d-eba6cf50d02b)
+
+    
+    
 - Reporting stage
+  * we have made a full comperhensive report about all the vulnerabilities and the remediation steps you can find it under the report section in the repo
+  * or through the  following google drive link :
   
      
 
