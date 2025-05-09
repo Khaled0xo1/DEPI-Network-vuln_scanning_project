@@ -1,11 +1,11 @@
 # 🖧 🔒 Network Vulnerability Assessment and Hardening
 
-This project is dedicated to scanning and strengthening network infrastructures by identifying vulnerabilities and implementing hardening techniques. Using advanced security methodologies, the goal is to enhance system resilience against potential cyber threats.
-
+We have conducted  a security assessment and penetration testing against using Gray-box technique on both internal and external assets of the Holo Cooperative Network.
+Simulating a real-world attacker with limited insider knowledge, we successfully uncovered and exploited multiple vulnerabilities—some of which resulted in privilege escalation, unauthorized access to critical systems, and full network compromise.These findings highlight serious risks and emphasize the need for promptremediation to enhance the organization’s overall security posture
 ---
 
 ## 🎯 Objectives
-- Conduct comprehensive network scanning to detect security weaknesses.
+- Conduct comprehensive pentesting process to detect security weaknesses.
 - Implement hardening measures to strengthen system defenses.
 - Provide actionable insights to improve overall security posture.
 
@@ -25,12 +25,13 @@ This project is dedicated to scanning and strengthening network infrastructures 
 
 ## 📌 Project Breakdown  
 
-- [ ]  
-- [ ]  
-- [ ]  
-- [ ]  
+- 
+- 
+-
+-   
 
-*(To be filled later)*  
+
+
 
 ---
 
