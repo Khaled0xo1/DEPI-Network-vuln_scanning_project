@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/16fac3a2-ea26-4b96-b02d-807883c893ca)# 🖧 🔒 Network Vulnerability Assessment and Hardening
+ 🖧 🔒 Network Vulnerability Assessment and Hardening
 
 ### We have conducted  a security assessment and penetration testing against using Gray-box technique on both internal and external assets of the Holo Cooperative Network.
 ### Simulating a real-world attacker with limited insider knowledge, we successfully uncovered and exploited multiple vulnerabilities—some of which resulted in privilege escalation, unauthorized access to critical systems, and full network compromise.These findings highlight serious risks and emphasize the need for promptremediation to enhance the organization’s overall security posture.
